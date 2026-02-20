@@ -1,5 +1,7 @@
 # personal-automation-lab
-Experiments with SMS-based productivity tools and conversational automation.
-This repository contains experiments related to personal automation and SMS-based productivity tools.
+
+This repository contains small experiments related to personal automation and SMS-based productivity tools.
+
+The goal is to explore conversational interfaces and lightweight messaging workflows for personal use.
 
 This is a private learning project.
